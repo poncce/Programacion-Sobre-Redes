@@ -1,3 +1,7 @@
+
+## Convertir el código de ejemplo de la salida de texto (productor/consumidor) a una interfaz generada con Tkinter
+## mostrando las acciones de los consumidores y los productores, lanzados desde un boton.
+
 import threading
 import time
 import random
