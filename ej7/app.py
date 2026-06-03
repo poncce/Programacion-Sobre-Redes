@@ -1,3 +1,7 @@
+# Utilizando la API Response, hacer una aplicación en python que permita acceder a los datos del 
+# clima de la Ciudad Autónoma de Buenos Aires y lo muestre los datos consultados.
+
+
 from flask import Flask
 import requests
 
